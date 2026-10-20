@@ -1,14 +1,12 @@
-# opp-nexus
+# 📡 Opp Nexus (`opp-nexus`)
 
-# 📡 Career Radar (`career-radar`)
-
-> An automated career opportunity aggregator powered by **n8n** and **LLM classification**. Tracks early-career job postings, industry conferences, free workshops, hackathons, and grants in a unified digest.
+> An automated career & opportunity aggregation engine powered by **n8n** and **LLM classification**. Tracks early-career job postings, industry conferences, free workshops, hackathons, and grants in a unified digest.
 
 ---
 
 ## 📊 Overview
 
-Searching across scattered job boards, Luma/Eventbrite pages, tech conference listings, and community Discord servers is time-consuming. **Career Radar** automates this by pulling raw opportunity feeds into an **n8n automation pipeline**, filtering and tagging them using an LLM, and dispatching actionable digests to preferred channels (Discord, Slack, or Notion).
+Searching across scattered job boards, Luma/Eventbrite pages, tech conference listings, and community Discord servers is time-consuming. **Opp Nexus** automates this by pulling raw opportunity feeds into an **n8n automation pipeline**, filtering and tagging them using an LLM, and dispatching actionable digests to preferred channels (Discord, Slack, or Notion).
 
 ---
 
@@ -34,5 +32,5 @@ Searching across scattered job boards, Luma/Eventbrite pages, tech conference li
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/career-radar.git
-   cd career-radar
+   git clone [https://github.com/](https://github.com/)<your-username>/opp-nexus.git
+   cd opp-nexus
